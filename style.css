@@ -1,0 +1,28 @@
+body{
+  background-color:hsl(30, 38%, 92%) ;
+}
+
+.container{
+  background-color: white;
+  width:700px;
+  height:600px;
+  border-radius: 15px;
+ 
+  margin-top:10%;
+  margin-left: 35%;
+  margin-right: 10%;
+  margin-bottom: 20%;
+  
+}
+.perfume{
+  width:300px;
+  height:600px;
+}
+.container{
+  display:flex;
+  font-weight: 100;
+  font-family: 'Courier New', Courier, monospace;
+}
+.content{
+  margin-left: 3rem;
+}
